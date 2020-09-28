@@ -13,3 +13,6 @@
 
 ![stop game](https://user-images.githubusercontent.com/8447473/94410103-77871200-01d3-11eb-962b-8099baad4ec7.jpg)
 
+![Screen Shot 2020-09-28 at 9 34 37 PM](https://user-images.githubusercontent.com/8447473/94410318-bd43da80-01d3-11eb-933c-44111cfddc15.png)
+
+![Screen Shot 2020-09-28 at 9 33 50 PM](https://user-images.githubusercontent.com/8447473/94410424-db113f80-01d3-11eb-9a94-a572595ce7ae.png)
